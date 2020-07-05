@@ -1,0 +1,45 @@
+@media screen and (min-width: 600px) {
+.social {
+  background-color: crimson;
+  padding-top: 70px;
+  color: aliceblue;
+  padding-bottom: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-github {
+    background: #24292e;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #0073b1;
+    color: white;
+  }
+
+  .post-social-media {
+    padding-left: 10%;
+  }

@@ -1,0 +1,8 @@
+.footer{
+    display: grid;
+    background-color: black;
+    padding: 30px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
